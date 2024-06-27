@@ -1,5 +1,5 @@
 # Universal-Match-Replacer
-The Universal Match Replacer is a Burp Suite extension designed to facilitate the dynamic replacement of regex patterns in HTTP requests, specifically for automated Burp scanners. 
+The Universal Match Replacer is a Burp Suite extension designed to facilitate the dynamic replacement of regex patterns in HTTP requests, specifically for automated Burp scanners. This tool enables you to replace any value within the request header and body during Burp automated scanners.
 
 # Usage
 ## Add the extension to Burp Suite's session handler to invoke the extension:
